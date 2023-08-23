@@ -1,0 +1,93 @@
+[
+    {
+        "project":"FinOps",
+        "product":"PRODUCT",
+        "sprint": "FinOps",
+        "startdate": "7Aug",
+        "enddate": "18Aug",
+        "timetracking":{
+            "planned":940,
+            "logged":760,
+            "totalhours":1254
+        },
+        "variance": 25
+    },
+    {
+        "project":"AutoPark",
+        "product":"PRODUCT",
+        "sprint": "Renaissance",
+        "startdate": "7Aug",
+        "enddate": "18Aug",
+        "timetracking":{
+            "planned":1040,
+            "logged":67,
+            "totalhours":1254
+        },
+        "variance": 55
+    },
+    {
+        "project":"AutoPark",
+        "product":"PRODUCT",
+        "sprint": "Renaissance",
+        "startdate": "7Aug",
+        "enddate": "18Aug",
+        "timetracking":{
+            "planned":1040,
+            "logged":598760,
+            "totalhours":1254
+        },
+        "variance": 55
+    },
+    {
+        "project":"FinOps",
+        "product":"PRODUCT",
+        "sprint": "FinOps",
+        "startdate": "7Aug",
+        "enddate": "18Aug",
+        "timetracking":{
+            "planned":940,
+            "logged":76560,
+            "totalhours":1254
+        },
+        "variance": 25
+    },
+    {
+        "project":"FinOps",
+        "product":"PRODUCT",
+        "sprint": "FinOps",
+        "startdate": "7Aug",
+        "enddate": "18Aug",
+        "timetracking":{
+            "planned":940,
+            "logged":760,
+            "totalhours":1254
+        },
+        "variance": 25
+    },
+    {
+        "project":"AutoPark",
+        "product":"PRODUCT",
+        "sprint": "Renaissance",
+        "startdate": "7Aug",
+        "enddate": "18Aug",
+        "timetracking":{
+            "planned":1040,
+            "logged":5260,
+            "totalhours":1254
+        },
+        "variance": 55
+    },
+    {
+        "project":"AutoPark",
+        "product":"PRODUCT",
+        "sprint": "Renaissance",
+        "startdate": "7Aug",
+        "enddate": "18Aug",
+        "timetracking":{
+            "planned":1040,
+            "logged":560,
+            "totalhours":1254
+        },
+        "variance": 55
+    }
+]
